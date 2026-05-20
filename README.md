@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Jatin Kumar
 **A passionate Software Engineer ||
 
 
