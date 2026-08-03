@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Jatin Kumar
-**A passionate Software Engineer ||
+**A passionate Software Developer ||
 
 
 - 🔭 **I’m currently working on:** Enter your project info here
